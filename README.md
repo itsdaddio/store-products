@@ -1,2 +1,3 @@
 # store-products
-A GitHub repo for my store product files 
+
+Product files for items sold at [Little Matching Shop](https://littlematchingshop.com).
